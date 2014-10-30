@@ -2,7 +2,7 @@
 <widget id="com.politics" version="1" versionCode = "1" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>Politics</name>
     <description>
-        Politics official mobile application
+        POLITIKO - is a news and social media portal about politicians, their relatives and allies in the Philippines.
     </description>
     <author email="admin@politics.com.ph" href="http://politics.com.ph/">
         admin@politics.com.ph
